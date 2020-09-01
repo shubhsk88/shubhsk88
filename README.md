@@ -4,9 +4,6 @@
 <a href="https://www.linkedin.com/in/shubhski/" target="_new"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href="shubham88ingh@gmail.com"><img src="https://img.icons8.com/ios/48/000000/important-mail.png"/></a>
 
-
-
-
 - 🔭 I’m currently working on  my project Snoob
 - 🌱 I’m currently learning NextJS and GraphQL
 - 👯 I’m looking to collaborate on [Letra Extenstion](https://github.com/shubhsk88/letra-extension)
@@ -15,7 +12,8 @@
 - ⚡ Fun fact: I want to be a polyglot 
 
 ### Languages and tools
-<br/>
+
+
 <div>
 <img src="https://img.icons8.com/plasticine/48/000000/react.png"/>
 <img src="https://img.icons8.com/color/48/000000/graphql.png"/>
