@@ -1,4 +1,4 @@
-### Hi there 👋,I am [Shubham](hhtps://shubhski.me)
+### Hi there 👋, I am [Shubham](hhtps://shubhski.me)
 
 <a href="https://twitter.com/shubhski" target="_new"><img src="https://img.icons8.com/color/48/000000/twitter.png"/></a>
 <a href="https://www.linkedin.com/in/shubhski/" target="_new"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
