@@ -16,11 +16,12 @@
 
 ### Languages and tools
 <br/>
-<img src="https://img.icons8.com/plasticine/100/000000/react.png"/>
+
+<img src="https://img.icons8.com/plasticine/48/000000/react.png"/>
 <img src="https://img.icons8.com/color/48/000000/graphql.png"/>
 <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 
 
-![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubhsk88a&hide=contribs,prs&count_private=true)
+![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubhsk88&hide=contribs,prs&count_private=true)
