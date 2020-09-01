@@ -23,5 +23,6 @@
 <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 </div>
-
-![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubhsk88&hide=contribs,prs&count_private=true)
+<br/>
+<br/>
+![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubhsk88&hide=prs&count_private=true)
