@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there 👋,I am [Shubham](hhtps://shubhski.me)
 
-<!--
-**shubhsk88/shubhsk88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://twitter.com/shubhski" target="_new"><img src="https://img.icons8.com/doodle/48/000000/twitter--v1.png"/></a>
+<a href="https://www.linkedin.com/in/shubhski/" target="_new"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="shubham88ingh@gmail.com"><img src="https://img.icons8.com/ios/48/000000/important-mail.png"/></a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🔭 I’m currently working on  my project Snoop
+- 🌱 I’m currently learning NextJS and GraphQL
+- 👯 I’m looking to collaborate on [Letra Extenstion](https://github.com/shubhsk88/letra-extension)
+- 💬 Ask me anything [Here](https://github.com/shubhsk88/shubhsk88/issues)
+- 😄 Pronouns:Shubhs
+- ⚡ Fun fact: I want to be a polyglot 
+
+### Languages and tools
+<br/>
+<img src="https://img.icons8.com/plasticine/100/000000/react.png"/>
+<img src="https://img.icons8.com/color/48/000000/graphql.png"/>
+<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+
+
+![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubhsk88a&hide=contribs,prs&count_private=true)
