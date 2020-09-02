@@ -1,4 +1,4 @@
-### Hi there 👋, I am <a href="https://shubhski.dev/" target="_new">Shubham Singh</a>
+### Hi there 👋, I am <a href="https://shubhski.dev/" target="_new">Shubham</a>
 
 <a href="https://twitter.com/shubhski" target="_new"><img src="https://img.icons8.com/color/48/000000/twitter.png"/></a>
 <a href="https://www.linkedin.com/in/shubhski/" target="_new"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
