@@ -1,8 +1,8 @@
-### Hi there 👋, I am <a href="https://shubhski.dev/" target="_new">Shubham</a>
+### Hi there 👋, I am <a href="https://shubhski.dev/" target="_blank">Shubham</a>
 
-<a href="https://twitter.com/shubhski" target="_new"><img src="https://img.icons8.com/color/48/000000/twitter.png"/></a>
-<a href="https://www.linkedin.com/in/shubhski/" target="_new"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href="shubham88ingh@gmail.com"><img src="https://img.icons8.com/ios/48/000000/important-mail.png"/></a>
+<a href="https://twitter.com/shubhski" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter.png"/></a>
+<a href="https://www.linkedin.com/in/shubhski/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="mailto:shubham88ingh@gmail.com"><img src="https://img.icons8.com/ios/48/000000/important-mail.png"/></a>
 
 - 🔭 I’m currently working on  my project Snoob
 - 🌱 I’m currently learning NextJS and GraphQL
