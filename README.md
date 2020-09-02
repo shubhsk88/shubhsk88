@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning NextJS and GraphQL
 - 👯 I’m looking to collaborate on [Letra Extenstion](https://github.com/shubhsk88/letra-extension)
 - 💬 Ask me anything [Here](https://github.com/shubhsk88/shubhsk88/issues)
-- 😄 Pronouns:Shubhs
 - ⚡ Fun fact: I want to be a polyglot 
 
 ### Languages and tools
