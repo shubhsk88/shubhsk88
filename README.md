@@ -5,7 +5,7 @@
 <a href="mailto:shubham88ingh@gmail.com"><img src="https://img.icons8.com/ios/48/000000/important-mail.png"/></a>
 
 - 🔭 I’m currently working on  my project Uber-Clone
-- 🌱 I’m currently learning Framer and React Query
+- 🌱 I’m currently learning Framer and Figma
 
 - 💬 Ask me anything [Here](https://github.com/shubhsk88/shubhsk88/issues)
 - ⚡ Fun fact: I want to be a polyglot 
