@@ -4,8 +4,8 @@
 <a href="https://www.linkedin.com/in/shubhski/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href="mailto:shubham88ingh@gmail.com"><img src="https://img.icons8.com/ios/48/000000/important-mail.png"/></a>
 
-- 🔭 I’m currently working on  my project Realbnb
-- 🌱 I’m currently learning Next.js and D3.js
+- 🔭 I’m currently working on  my project Pollmachen
+- 🌱 I’m currently learning Django and D3.js
 
 - 💬 Ask me anything [Here](https://github.com/shubhsk88/shubhsk88/issues)
 - ⚡ Fun fact: I want to be a polyglot 
