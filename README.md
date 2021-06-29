@@ -25,3 +25,4 @@
 
 
 ![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubhsk88&count_private=true&theme=theme=radical)
+![Weekly Development Breakdown](https://gist.github.com/shubhsk88/151c4ad4e6eeec8f572b81f3d70945e9.js)
