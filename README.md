@@ -27,5 +27,12 @@
 ![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubhsk88&count_private=true&theme=theme=radical)
 
 <!--START_SECTION:waka-->
+```text
+JavaScript   22 hrs 39 mins  █████████████████████▒░░░   85.32 % 
+JSON         1 hr 34 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+Other        1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+TypeScript   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Bash         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+```
 <!--END_SECTION:waka-->
 
