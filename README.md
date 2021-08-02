@@ -26,4 +26,6 @@
 
 ![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubhsk88&count_private=true&theme=theme=radical)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
