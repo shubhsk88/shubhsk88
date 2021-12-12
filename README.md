@@ -2,7 +2,7 @@
 
 <a href="https://twitter.com/shubhski" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter.png"/></a>
 <a href="https://www.linkedin.com/in/shubhski/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href="mailto:shubham88ingh@gmail.com"><img src="https://img.icons8.com/ios/48/000000/important-mail.png"/></a>
+<a href="mailto:shubham88ingh@gmail.com"><img src="https://img.icons8.com/external-kiranshastry-lineal-kiranshastry/64/000000/external-email-interface-kiranshastry-lineal-kiranshastry-1.png"/></a>
 
 - 🔭 I’m currently working on  my project Pollmachen and Emore
 - 🌱 I’m currently learning Remix and Rust
