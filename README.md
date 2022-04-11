@@ -4,8 +4,8 @@
 <a href="https://www.linkedin.com/in/shubhski/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href="mailto:shubham88ingh@gmail.com"><img src="https://img.icons8.com/external-kiranshastry-lineal-kiranshastry/64/000000/external-email-interface-kiranshastry-lineal-kiranshastry-1.png"/></a>
 
-- 🔭 I’m currently working on  my project Pollmachen and Emore
-- 🌱 I’m currently learning Remix and Rust
+- 🔭 I’m currently working on  my project Social media application and Emore
+- 🌱 I’m currently learning Solidjs and Rust
 
 - 💬 Ask me anything [Here](https://github.com/shubhsk88/shubhsk88/issues)
 - ⚡ Fun fact: I want to be a polyglot 
