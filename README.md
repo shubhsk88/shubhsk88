@@ -5,8 +5,7 @@
 <a href="mailto:shubham88ingh@gmail.com"><img src="https://img.icons8.com/external-kiranshastry-lineal-kiranshastry/64/000000/external-email-interface-kiranshastry-lineal-kiranshastry-1.png"/></a>
 
 
-- 🌱 I’m currently learning Golang and Nestjs
-
+- 🌱 I’m currently learning React Native and Hono
 - 💬 Ask me anything [Here](https://github.com/shubhsk88/shubhsk88/issues)
 - ⚡ Fun fact: I speak 6 languages
 
